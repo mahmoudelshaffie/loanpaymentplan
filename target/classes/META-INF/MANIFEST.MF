@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Plan Generator
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shaf3y
+Implementation-Vendor-Id: com.lendico
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/com.lendico.plangenerator
+Created-By: Maven Integration for Eclipse
+
